@@ -32,4 +32,6 @@ Because AstroDX v2.0 is really unstable so you need to know these setting to mak
 
 ### Extra note:
 Consider joining the [AstroDX discord sever](https://discord.gg/6fpETgpvjZ) so you can get help when encounter any bug and get help there.
+
+
 Ditmeansim
