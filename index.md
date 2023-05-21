@@ -3,6 +3,7 @@
 
 This is a step-to-step tutorial to install AstroDX (*MaiMai clone*) and it also help you import charts from a private project so **please do not share this link**.
 ~~Im just trying out the markdown lol~~
+~~And im shy af so dont~~
 
 ### Step 1: Install AstroDX on your Android phone  
 
@@ -18,7 +19,7 @@ This is a step-to-step tutorial to install AstroDX (*MaiMai clone*) and it also 
 - Now connect your Phone to your PC via your charging cable.
 - Open your phone internal storage and go find `Android/Data/`.
 - The will be a file called `/com.Reflektone.AstroDX/` there (if not then you need to open AstroDX so it can be set up).
-- Copy the chart you have downloaded and put it in `Android/Data/com.Reflektone.AstroDX/files/levels`.
+- Copy the chart you have downloaded and paste it in `Android/Data/com.Reflektone.AstroDX/files/levels`.
 
 ### Step 3: Setting up
 Because AstroDX v2.0 is really unstable so you need to know these setting to make the game enjoyable.
